@@ -20,12 +20,9 @@ body{
 }
 
 
-#footer{
-    background: #777;
-    color: wheat;
-    text-align: center;
-    padding: 3em;
-    
+#cabecera #logo{
+    width: 40px;
+    vertical-align: middle;
 }
 
 #container{
