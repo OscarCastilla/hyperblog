@@ -21,10 +21,16 @@ body{
 
 
 #cabecera #logo{
-    width: 40px;
+    width: 15px;
     vertical-align: middle;
 }
-
+#footer{
+    background: #777;
+    color: wheat;
+    text-align: center;
+    padding: 3em;
+    
+}
 #container{
     width: 70%;
     padding: 1em;
